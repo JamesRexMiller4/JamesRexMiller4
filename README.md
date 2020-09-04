@@ -1,7 +1,3 @@
-![2016-01-21 09 19 54](https://user-images.githubusercontent.com/27719824/92275582-8e746600-eeac-11ea-8931-1a3fc9bea673.jpg)
-
-
-
 ### Howdy! 👋
 
 My name is James Miller, and welcome to my Github profile. I am currently working at Invoca, a marketing SaaS company, where I am refactoring legacy code written in
