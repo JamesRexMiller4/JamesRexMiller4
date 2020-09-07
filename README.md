@@ -1,6 +1,6 @@
 ### Howdy! 👋
 
-My name is James Miller, and welcome to my Github profile. I am currently working at Invoca, a marketing SaaS company, where I am refactoring legacy code written in
+My name is James Miller, and welcome to my Github profile. I am currently interning at Invoca, a marketing SaaS company, where I am refactoring legacy code written in
 Rails and Backbone.js into GraphQL endpoints and React components. In my spare time I am diving deeper into computer science fundamentals (data structures and algorithms) because I find it interesting, and who knows maybe it will be useful one day 🙃. Other than that I am focusing on becoming the best version of myself as I can be, and enjoy helping others become their fully realized selves.
 
 ## Look around
