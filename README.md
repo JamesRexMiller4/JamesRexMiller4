@@ -1,7 +1,6 @@
 ### Howdy! 👋
 
-My name is James Miller, and welcome to my Github profile. I am currently interning at Invoca, a marketing SaaS company, where I am refactoring legacy code written in
-Rails and Backbone.js into GraphQL endpoints and React components. In my spare time I am diving deeper into computer science fundamentals (data structures and algorithms) because I find it interesting, and who knows maybe it will be useful one day 🙃. Other than that I am focusing on becoming the best version of myself as I can be, and enjoy helping others become their fully realized selves.
+Thanks for checking out my profile! I am a developer primarily skilled in JavaScript/React, CSS/SCSS, HTML, OOP, and TDD. Currently working on bettering my understanding of data structures and algorithms, and currently seeking new opportunities 😉. Other than that I am focusing on becoming the best version of myself as I can be, and enjoy helping others become their fully realized selves.
 
 ## Look around
 Personally, I am most proud of my project Condensate. There is still much to be done before that baby is fully realized, but you should check out some of my Github favorites as I think these are some of the most interesting open source repos on the webs. 
