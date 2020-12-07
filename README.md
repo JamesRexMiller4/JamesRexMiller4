@@ -1,9 +1,11 @@
 ### Howdy! 👋
 
-Thanks for checking out my profile! I am a developer primarily skilled in JavaScript/React, CSS/SCSS, HTML, OOP, and TDD. Currently working on bettering my understanding of data structures and algorithms, and currently seeking new opportunities 😉. Other than that I am focusing on becoming the best version of myself as I can be, and enjoy helping others become their fully realized selves.
+Thanks for checking out my profile! Currently working on and learning about design systems and building UI interfaces, while also improving my skills with D3 and data visualizations.
+
+Recently came across this challenge, "12 startups in 12 months", and it seems both daunting and enticing. May be working on this in the next year, but as always there seems to be just too many things to learn/do.
 
 ## Look around
-Personally, I am most proud of my project Condensate. There is still much to be done before that baby is fully realized, but you should check out some of my Github favorites as I think these are some of the most interesting open source repos on the webs. 
+Personally, I am most proud of my project Condensate. There is still much to be done before that baby is fully realized, but you should check out some of my Github favorites as I think these are some of the most interesting open source repos on the webs. I've also starred some very helpful repos with resources for FrontEnd web development.
 
 
 <!--
